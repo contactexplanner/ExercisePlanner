@@ -1,1 +1,1 @@
-# ExercisePlanner
+# Exercise Planner
